@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form{
+    width: 500px;
+    margin: auto;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+h1{
+    text-align: center;
+    color: #F86F04;
+}
+p{
+    margin: 10px;
+    width: 80%;
+    color: rgb(103, 103, 90);
+}
+.formul input {
+    display: block;
+    margin: 10px;
+    width: 80%;
+    height: 30px;
+
+}
+.formul label{
+    margin-left: 10px;
+}
+.form .check input{
+    margin-left: 10px;
+}
+button{
+    margin: 10px;
+    width: 80%;
+    height: 30px;
+    border: none;
+    background-color: #F86F04;
+    color: #fff;
+    cursor: pointer;
+}
